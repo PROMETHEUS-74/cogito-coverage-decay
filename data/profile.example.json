@@ -1,0 +1,12 @@
+{
+  "causal": 0.9,
+  "edge_cases": 0.85,
+  "concretize": 0.75,
+  "operationalize": 0.7,
+  "counterfactual": 0.6,
+  "generalize": 0.65,
+  "analogy": 0.2,
+  "decompose": 0.75,
+  "ethical": 0.35,
+  "historical": 0.3
+}
