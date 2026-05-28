@@ -1,0 +1,122 @@
+[
+  {
+    "id": "main_technical_01",
+    "set": "main",
+    "domain": "technical_explanation",
+    "question": "Explain how database indexing speeds up queries and when it can make writes slower."
+  },
+  {
+    "id": "main_technical_02",
+    "set": "main",
+    "domain": "technical_explanation",
+    "question": "Why do distributed systems become harder to reason about as they scale?"
+  },
+  {
+    "id": "main_technical_03",
+    "set": "main",
+    "domain": "technical_explanation",
+    "question": "Explain the difference between caching, queueing, and batching in backend systems."
+  },
+  {
+    "id": "main_technical_04",
+    "set": "main",
+    "domain": "technical_explanation",
+    "question": "Why do build systems become slow as projects grow, and what can you do about it?"
+  },
+  {
+    "id": "main_technical_05",
+    "set": "main",
+    "domain": "technical_explanation",
+    "question": "Explain how a transformer model uses attention to process context."
+  },
+  {
+    "id": "main_philosophical_01",
+    "set": "main",
+    "domain": "philosophical_exploration",
+    "question": "Is it possible to know whether you’ve made a free choice?"
+  },
+  {
+    "id": "main_philosophical_02",
+    "set": "main",
+    "domain": "philosophical_exploration",
+    "question": "Can a person be responsible for an outcome they did not intend but could have predicted?"
+  },
+  {
+    "id": "main_philosophical_03",
+    "set": "main",
+    "domain": "philosophical_exploration",
+    "question": "Is memory part of identity, or only evidence of identity?"
+  },
+  {
+    "id": "main_philosophical_04",
+    "set": "main",
+    "domain": "philosophical_exploration",
+    "question": "Does progress usually require forgetting older ways of thinking?"
+  },
+  {
+    "id": "main_philosophical_05",
+    "set": "main",
+    "domain": "philosophical_exploration",
+    "question": "Is consistency always a virtue?"
+  },
+  {
+    "id": "main_applied_01",
+    "set": "main",
+    "domain": "applied_problem_solving",
+    "question": "Design a small system to detect when a Slack channel has gone quiet but shouldn’t have."
+  },
+  {
+    "id": "main_applied_02",
+    "set": "main",
+    "domain": "applied_problem_solving",
+    "question": "Design a process to review a friend’s CV without making them feel judged."
+  },
+  {
+    "id": "main_applied_03",
+    "set": "main",
+    "domain": "applied_problem_solving",
+    "question": "Create a lightweight checklist for deciding whether to automate a repetitive workplace task."
+  },
+  {
+    "id": "main_applied_04",
+    "set": "main",
+    "domain": "applied_problem_solving",
+    "question": "Propose a workflow for handling customer complaints when the root cause is outside your team’s control."
+  },
+  {
+    "id": "main_applied_05",
+    "set": "main",
+    "domain": "applied_problem_solving",
+    "question": "Design a simple incident-review process for a small operations team."
+  },
+  {
+    "id": "main_creative_01",
+    "set": "main",
+    "domain": "creative_ideation",
+    "question": "Generate a concept for a tool that helps amateur cooks adapt recipes when ingredients are missing."
+  },
+  {
+    "id": "main_creative_02",
+    "set": "main",
+    "domain": "creative_ideation",
+    "question": "Create a sci-fi premise about a city where all public clocks begin disagreeing by different amounts."
+  },
+  {
+    "id": "main_creative_03",
+    "set": "main",
+    "domain": "creative_ideation",
+    "question": "Imagine a future interface where users can edit their own memories. What goes wrong first?"
+  },
+  {
+    "id": "main_creative_04",
+    "set": "main",
+    "domain": "creative_ideation",
+    "question": "Invent a product for people who want to learn a musical instrument but keep giving up after two weeks."
+  },
+  {
+    "id": "main_creative_05",
+    "set": "main",
+    "domain": "creative_ideation",
+    "question": "Develop a product idea for the gap between fitness trackers and physiotherapy."
+  }
+]
