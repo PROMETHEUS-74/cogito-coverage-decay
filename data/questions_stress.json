@@ -1,0 +1,62 @@
+[
+  {
+    "id": "stress_01",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "How would you design a system to detect output drift in a multi-step AI workflow?"
+  },
+  {
+    "id": "stress_02",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "Explain why evaluation metrics for LLM personalisation are difficult to design."
+  },
+  {
+    "id": "stress_03",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "What does it mean for an AI system to “understand” a user?"
+  },
+  {
+    "id": "stress_04",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "Can reasoning style be separated from personality?"
+  },
+  {
+    "id": "stress_05",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "What are the risks of making AI systems too aligned with an individual user’s cognitive preferences?"
+  },
+  {
+    "id": "stress_06",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "How would you evaluate whether an AI assistant is becoming more useful to a specific user over time?"
+  },
+  {
+    "id": "stress_07",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "Propose a workflow for reducing generic output in long-form AI-generated documents."
+  },
+  {
+    "id": "stress_08",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "Propose a metaphor for prompt decay that would work in a technical blog post."
+  },
+  {
+    "id": "stress_09",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "How would you debug a system prompt that works at the start of a response but fails later?"
+  },
+  {
+    "id": "stress_10",
+    "set": "stress",
+    "domain": "personalisation_stress_test",
+    "question": "Design a feedback loop that lets an AI assistant improve its answer before showing it to the user."
+  }
+]
