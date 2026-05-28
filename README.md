@@ -1,11 +1,17 @@
 # Cogito Coverage Decay
-
 This repository contains the code and reproducibility materials for the technical article:
 
-**Coverage decay: when style prompts forget themselves**  
-Author: Nic Omolabi  
+**[Coverage decay: when style prompts forget themselves](article/coverage_decay_cogito_publication_ready.md)**
+Author: Nic Omolabi
 Technical article / reproducibility protocol, May 2026
 
+## Quick links
+* [Read the technical article](article/coverage_decay_cogito_publication_ready.md)
+* [Download the DOCX version](article/coverage_decay_cogito_publication_ready.docx)
+* [View the Cogito engine](scripts/cogito_preferences.py)
+* [Main question set](data/questions_main.json)
+* [Stress-test question set](data/questions_stress.json)
+* [Example profile](data/profile.example.json)
 ## Overview
 
 Large language models often follow style or reasoning instructions at the start of a long response, then gradually drift back toward generic structure. This project calls that failure mode **coverage decay**.
